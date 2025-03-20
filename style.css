@@ -107,7 +107,7 @@ li{
   gap: 10px;
 } 
 ul li::before {
-  content: url('assets/images/icon-list.svg');
+  content: url('icon-list.svg');
   transform: translateY(3px);
 }
 .email-error {
